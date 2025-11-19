@@ -27,7 +27,7 @@ Yeni şeyler öğrenmeyi, sistem tasarlamayı ve zor problemlere kafa yormayı s
 ## 📊 GitHub İstatistiklerim
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=furkanigsiz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=furkanigsiz&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=furkanigsiz&theme=radical&hide_border=true" />
 </p>
 
 ---
