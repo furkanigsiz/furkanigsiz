@@ -28,9 +28,24 @@ I love learning new stuff, designing systems, and tackling challenging problems.
 
 ## 📊 GitHub Stats
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanigsiz&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/furkanigsiz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=furkanigsiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/furkanigsiz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanigsiz&layout=compact&theme=radical&langs_count=8" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanigsiz&layout=compact&theme=radical)
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/furkanigsiz/Luva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furkanigsiz&repo=Luva&theme=radical" />
+  </a>
+</p>
 
 ---
 
