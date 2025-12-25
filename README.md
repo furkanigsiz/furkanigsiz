@@ -28,22 +28,9 @@ I love learning new stuff, designing systems, and tackling challenging problems.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=furkanigsiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="160" src="https://streak-stats.demolab.com?user=furkanigsiz&theme=radical&hide_border=true" />
-</p>
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanigsiz&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanigsiz&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkanigsiz&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanigsiz&layout=compact&theme=radical)
 
 ---
 
